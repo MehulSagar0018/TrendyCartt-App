@@ -1,0 +1,343 @@
+[
+    {
+      "id": 1,
+      "name": "Leather Handbag",
+      "category": "accessories",
+      "description": "Stylish leather handbag with ample storage space.",
+      "price": 79.99,
+      "oldPrice": 99.99,
+      "image": "https://images.unsplash.com/photo-1512201078372-9c6b2a0d528a?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 4.5,
+      "author":"admin"
+    },
+    {
+      "id": 2,
+      "name": "Evening Gown",
+      "category": "dress",
+      "description": "Elegant evening gown for special occasions.",
+      "price": 149.99,
+      "oldPrice": 199.99,
+      "image": "https://images.unsplash.com/photo-1568251188392-ae32f898cb3b?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "Gold Necklace",
+      "category": "jewellery",
+      "description": "Exquisite gold necklace with intricate design.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1631097969294-c38afba59496?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "gold",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Matte Lipstick",
+      "category": "cosmetics",
+      "description": "Long-lasting matte lipstick in various shades.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1631214500115-598fc2cb8d2d?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "red",
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Silk Scarf",
+      "category": "accessories",
+      "description": "Luxurious silk scarf with vibrant colors.",
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "image": "https://images.unsplash.com/photo-1485527691629-8e370684924c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "blue",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Cocktail Dress",
+      "category": "beige",
+      "description": "Chic cocktail dress for parties and events.",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Earrings",
+      "category": "jewellery",
+      "description": "Sparkling diamond earrings that add elegance to any outfit.",
+      "price": 299.99,
+      "oldPrice": 349.99,
+      "image": "https://images.unsplash.com/photo-1587467442586-7bcc51828a10?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "silver",
+      "rating": 3.8
+    },
+    {
+      "id": 8,
+      "name": "Foundation",
+      "category": "cosmetics",
+      "description": "High-coverage foundation for a flawless finish.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1599733589046-10c005739ef9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "beige",
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "name": "Sunglasses",
+      "category": "accessories",
+      "description": "Trendy sunglasses with UV protection.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Casual Pants",
+      "category": "dress",
+      "description": "Comfortable maxi dress for casual outings.",
+      "price": 59.99,
+      "oldPrice": 79.99,
+      "image": "https://plus.unsplash.com/premium_photo-1664298355914-bc65d2c9af64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "green",
+      "rating": 4.2
+    },
+    {
+      "id": 11,
+      "name": "Floral printed dress",
+      "category": "dress",
+      "description": "Trendy Dress with floral print.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/2162630359/photo/pretty-lady-wear-blue-dotted-dress-isolated-on-white-background-stock-photo.jpg?s=612x612&w=0&k=20&c=Gp0FPIbXKYsD_mgB0E6TZe1cCN9EDXU73prgjnEmD1Y=",
+      "color": "blue",
+      "rating": 4.6
+    }, {
+      "id": 12,
+      "name": "Sleeveless Evening Gown",
+      "category": "dress",
+      "description": "Elegant and timeless, this stunning navy gown captures the essence of sophisticated style, perfect for any formal occasion.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/150685327/photo/vintage-fashion.jpg?s=612x612&w=0&k=20&c=OVbaGyZrvPJFK0-I1bcn8_II1MP2PjctF-VGoPFYDQM=",
+      "color": "blue",
+      "rating": 4.6
+    }, {
+      "id": 13,
+      "name": "White Dress with floral Print",
+      "category": "dress",
+      "description": " pretty cute lovable fascinating delicate alluring gorgeous nice stunning with long wavy hairdo shirt mini white dress holding frill chiffon.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1009480924/photo/photo-portrait-of-attractive-pretty-cute-lovable-fascinating-delicate-alluring-gorgeous-nice.jpg?s=612x612&w=0&k=20&c=OZHf3qtTeweGfo6JtzIKVzF8ptHlHEqbDsLG7WE9NnY=",
+      "color": "white",
+      "rating": 4.6
+    }, {
+      "id": 14,
+      "name": "Urban Elegance Dress",
+      "category": "dress",
+      "description": " Elegance meets urban chic. Effortlessly stylish in black.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1325190773/photo/fashion-portrait-of-a-sexy-brunette-woman-with-a-make-up-wearing-black-clothes-she-is-wearing.jpg?s=612x612&w=0&k=20&c=KRpkqtUZh5lZIqO39hYjy3XLpfi0R0GxIrYPamTTnXU=",
+      "color": "black",
+      "rating": 4.6
+    }, {
+      "id": 15,
+      "name": "Summer Serenity",
+      "category": "dress",
+      "description": " Embracing summer vibes in soft pastels and effortless style",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/936433926/photo/young-woman-in-yellow-mini-dress-and-sunglasses.jpg?s=612x612&w=0&k=20&c=UOd86LfeAJZyqEc5AKxuzzUPyhbPmptOAUHGxmznrQg=",
+      "color": "yellow",
+      "rating": 4.6
+    }, {
+      "id": 16,
+      "name": "Velvet Elegance",
+      "category": "dress",
+      "description": " Lost in elegance, finding beauty among the greens.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1360324767/photo/beautiful-woman-in-red-dress-walking-in-the-garden-full-of-roses.jpg?s=612x612&w=0&k=20&c=3fApMwbCk1UWKs93G18CR-QYTO5HkZS-9eRKFXeOcUc=",
+      "color": "red",
+      "rating": 4.6
+    }, {
+      "id": 17,
+      "name": "Fresh Breeze",
+      "category": "dress",
+      "description": "Beautiful gressn dress with loose, fluttery sleeves and a relaxed fit, it combines comfort with style, making it perfect for casual outings or summer events.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1083669188/photo/happy-young-woman-in-green-mini-dress-is-holding-hands-raised-and-laughing.jpg?s=612x612&w=0&k=20&c=cUdSgSmXbfBaso0fffJACaRt6yBeGvtUiYQru9lwIhM=",
+      "color": "green",
+      "rating": 4.6
+    }, {
+      "id": 18,
+      "name": "Silk Red Scarf and Headwear",
+      "category": "dress",
+      "description": " Pretty cute lovable fascinating delicate alluring gorgeous nice stunning with long wavy hairdo shirt mini white dress holding frill chiffon.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/982015302/vector/vector-3d-realistic-red-scarf-and-beret.jpg?s=612x612&w=0&k=20&c=Ze-O0efOzAeQGGJzV53KI6CMjoAj3JX-2OF3ZB4y05o=",
+      "color": "red",
+      "rating": 4.6
+    }, {
+      "id": 19,
+      "name": " Luxury Diamond Ring",
+      "category": "jewellery",
+      "description": " Diamond Ring, Jewelry, Diamond - Gemstone, Engagement Ring",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1281495666/photo/diamond-ring.jpg?s=612x612&w=0&k=20&c=wqi6e1Q1byA2og3ab-QYsJLPqcKThkmeraCtYRtqGtU=",
+      "color": "silver",
+      "rating": 4.6
+    }, {
+      "id": 20,
+      "name": "Gold Ring",
+      "category": "jewellery",
+      "description": " pretty cute lovable fascinating delicate alluring gorgeous nice stunning Gold Ring",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1688463727/photo/model-with-a-diamond-ring-on-her-finger.jpg?s=612x612&w=0&k=20&c=M4AqK2dU3oHr1kht2XmORW-ZjIbHlLpvjgRVBhbnqLg=",
+      "color": "black",
+      "rating": 4.6
+    }, {
+      "id": 21,
+      "name": "Diamond Studded silver Bracelet",
+      "category": "jewellery",
+      "description": "Diamond jewelry rings luxury accessories beauty fashion",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1744122223/photo/diamond-jewelry-rings-luxury-accessories-beauty-fashion.jpg?s=612x612&w=0&k=20&c=DScKa87ewmrCqfktmJVJREdCcgt0BEYSUlHN1up-HjA=",
+      "color": "silver",
+      "rating": 4.6
+    }, {
+      "id": 22,
+      "name": "Diamond necklace",
+      "category": "jewellery",
+      "description": " simple chains with a single diamond pendant.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/1984913199/photo/diamond-necklace-around-the-neck-of-the-model-in-a-white-blouse.jpg?s=612x612&w=0&k=20&c=iEykzzbb-63r9rKwXdaU_zHW1DQWgSsu6HJap-SxiEU=",
+      "color": "silver",
+      "rating": 4.6
+    }, {
+      "id": 23,
+      "name": "accented jewelry",
+      "category": "jewellery",
+      "description": " Elegant lady with red lips and black accented Necklace and Earrings ",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/184767933/photo/elegant-lady-with-red-lips-and-black-accented-jewelry.jpg?s=612x612&w=0&k=20&c=_yACX4XysyVZ_HUM_6PHWQ-qnkCY6uayxKJS7WS96PU=",
+      "color": "silver",
+      "rating": 4.6
+    }, {
+      "id": 24,
+      "name": "Sensual Pearl necklace and earrings",
+      "category": "jewellery",
+      "description": " A beautiful woman with a pearl necklace and earrings.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/155375549/photo/sensual-pearl.jpg?s=612x612&w=0&k=20&c=4ey0_SxM0QNTvFAKg_oPGTBEbeB_pGl6uPpJMAIaxQM=",
+      "color": "white",
+      "rating": 4.6
+    }, {
+      "id": 25,
+      "name": "Beauty women bracelet",
+      "category": "jewellery",
+      "description": "Beauty Woman  Jewelry, Jewellery over shining Lights Background",
+      "price": 49.99,
+      "image": "https://www.giva.co/cdn/shop/files/BR0922_1.jpg?v=1720176766&width=493",
+      "color": "silver",
+      "rating": 4.6
+    }, {
+      "id": 26,
+      "name": "BB Foundation",
+      "category": "cosmetics",
+      "description": " Flawless skin starts here: the perfect foundation for your beauty.",
+      "price": 49.99,
+      "image": "https://media.istockphoto.com/id/892006702/photo/young-woman-applying-liquid-foundation-on-her-hand.jpg?s=612x612&w=0&k=20&c=mrLNaxZVtabycHeWihuWhXQiDm66zb-t-TdVywpRIDU=",
+      "color": "beige",
+      "rating": 4.6
+    }, {
+      "id": 27,
+      "name": "SUGAR Cosmetics Lipstick",
+      "category": "cosmetics",
+      "description": " SUGAR Cosmetics Go Bold  Lipstick .",
+      "price": 49.99,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1086916/kUfUgK6_f--1086916_1.jpg",
+      "color": "red",
+      "rating": 4.6
+    }, {
+      "id": 28,
+      "name": "Vinyl Liquid Lipstick",
+      "category": "cosmetics",
+      "description": "Maybelline New York Superstay Vinyl Ink Liquid Lipstick - Witty (4.2ml)",
+      "price": 49.99,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1021306/0PR4zT2l4z-1021306_1.jpg",
+      "color": "pink",
+      "rating": 4.6
+    }, {
+      "id": 29,
+      "name": "Huda Beauty Maskara",
+      "category": "cosmetics",
+      "description": " Huda Beauty 1 Coat Wow Extra Volumizing and Lifting Mascara - Very Vanta (10ml)",
+      "price": 49.99,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1116358/NsaW0GxMc--1116358_1.jpg",
+      "color": "black",
+      "rating": 4.6
+    }, {
+      "id": 30,
+      "name": "Maybelline Lipstick",
+      "category": "cosmetics",
+      "description": "Maybelline New York Color Sensational Inti-Matte Nude Lipstick - 506 Toasted Brown (3.9g).",
+      "price": 49.99,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1021307/WFZdIJLkt-1021307_1.jpg",
+      "color": "brown",
+      "rating": 4.6
+    }, {
+      "id": 31,
+      "name": "swift Dry Nailpaint",
+      "category": "cosmetics",
+      "description": " Nails Our Way Swift Dry Nail Enamel - James Pond (10 ml)",
+      "price": 49.99,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1127469/jNsK8U_dVkV-1127469_1.jpg",
+      "color": "blue",
+      "rating": 4.6
+    }, {
+      "id": 32,
+      "name": "Vega Hair Brush",
+      "category": "accessories",
+      "description": " Vega Flat Hair Brush India's No.1 Hair Brush Brand for Women and Men (E14-FB) (118 g)",
+      "price": 49.99,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1011866/uVgdoKvdLr-1011866_1.jpg",
+      "color": "black",
+      "rating": 4.6
+    }, {
+      "id": 33,
+      "name": " hair clutch",
+      "category": "accessories",
+      "description": " Elegant Butterfly Hair Clutcher with Pearl Chain",
+      "price": 49.99,
+      "image": "https://m.media-amazon.com/images/I/613LuDkiCCL._AC_SR180,120_QL78_.jpg",
+      "color": "white",
+      "rating": 4.6
+    }, {
+      "id": 34,
+      "name": "Wallet",
+      "category": "accessories",
+      "description": " PUMA Floral Unisex Wallet.",
+      "price": 49.99,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/091451/01/fnd/IND/fmt/png/PUMA-Floral-Unisex-Wallet",
+      "color": "white",
+      "rating": 4.6
+    }, {
+      "id": 35,
+      "name": "CASIO Watch",
+      "category": "accessories",
+      "description": "CASIO Women White & Tan Brown Enticer Analogue Leather Watch LTP-VT01GL.",
+      "price": 49.99,
+      "image": "https://th.bing.com/th?id=OPAC.OlbOQ6xhMcFmYA474C474&w=592&h=550&o=5&pid=21.1",
+      "color": "brown",
+      "rating": 4.6
+    }, {
+      "id": 36,
+      "name": "GUESS watch",
+      "category": "accessories",
+      "description": " GUESS Women Silver-Toned Analogue Watch W1156L1.",
+      "price": 49.99,
+      "image": "https://th.bing.com/th?id=OPAC.DgmzxK6tlqCXJA474C474&w=592&h=550&o=5&pid=21.1",
+      "color": "silver",
+      "rating": 4.6
+    }
+  ]
