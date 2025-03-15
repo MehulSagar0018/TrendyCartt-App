@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "react-app-rewired start",
-    "build": " build",
+   
     "test": "react-app-rewired test"
   },
   "dependencies": {
