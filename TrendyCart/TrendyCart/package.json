@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mehulsagar0018.github.io/TrendyCartt-App/",
+   
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,6 +12,8 @@
     "preview": "vite preview",
     "start": "react-app-rewired start",
    
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "test": "react-app-rewired test"
   },
   "dependencies": {
