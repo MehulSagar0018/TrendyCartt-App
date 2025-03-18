@@ -30,7 +30,7 @@ app.use(
   })
 );
 app.use(cors({ 
-  origin: ['https://trendy-cartt-app-x9ne.vercel.app', 'http://localhost:5173'],
+  origin: ' http://localhost:5173',
   credentials: true,
 }));
 app.post("/create-checkout-session", async (req, res) => {
